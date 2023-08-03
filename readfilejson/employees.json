@@ -1,0 +1,27 @@
+[
+    {
+        "name":"ThiDK",
+        "city":"Ha Noi",
+        "state":"HN"
+    },
+    {
+        "name":"Dang kim Thi",
+        "city":"Ha Noi",
+        "state":"HN"
+    },
+    {
+        "name":" Chau Anh",
+        "city":"Los Angeles",
+        "state":"LA"
+    },
+    {
+        "name":"Nhat Minh",
+        "city":"New York",
+        "state":"HN"
+    },
+    {
+        "name":"Elsa",
+        "city":"Toranto",
+        "state":"CA"
+    }
+]
